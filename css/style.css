@@ -7,6 +7,7 @@
 		float:left;
 		width:40%;
 		background-color:teal;
+		clear:both;
 			}
 	.right {
 		float:left;
