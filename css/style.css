@@ -23,6 +23,7 @@
 			}
 	.table{
 		border:1;
+		tr:nth-child(even) {background: teal}
 	}
 	img{
 		height: auto; 
