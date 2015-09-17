@@ -1,12 +1,12 @@
 	.container {
 		width: 50%;
 		margin:0 auto;
-		background-color:teal;
 			}
 		
 	.left {
 		float:left;
 		width:40%;
+		background-color:teal;
 			}
 	.right {
 		float:left;
