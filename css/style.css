@@ -24,6 +24,7 @@
 	.table	tr:nth-child(even){
 		border:1;
 		background: teal;
+		color:white;
 	}
 	img{
 		height: auto; 
