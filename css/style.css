@@ -1,5 +1,5 @@
 	.container {
-		width: 50%;
+		width: 10%;
 		margin:0 auto;
 		background-color:teal;
 		color:white;
@@ -10,17 +10,17 @@
 	} 
 	.left {
 		float:left;
-		width:40%;
+		width:10%;
 		clear:both;
 			}
 	.2nd{
 		float:left;
-		width:40%;
+		width:10%;
 		clear:both;
 	}
 	.right {
 		float:left;
-		width:40%;
+		width:10%;
 		margin-left:10%;
 			}
 	.table	tr:nth-child(even){
