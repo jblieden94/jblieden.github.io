@@ -21,9 +21,9 @@
 		width:40%;
 		margin-left:10%;
 			}
-	.table{
+	.table	tr:nth-child(even){
 		border:1;
-		tr:nth-child(even) {background: teal}
+		{background: teal}
 	}
 	img{
 		height: auto; 
