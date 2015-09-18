@@ -23,7 +23,7 @@
 			}
 	.table	tr:nth-child(even){
 		border:1;
-		{background: teal}
+		background: teal;
 	}
 	img{
 		height: auto; 
