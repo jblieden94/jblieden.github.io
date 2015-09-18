@@ -38,3 +38,6 @@
     		max-height: 600px;
     		clear:both;
 	}
+	a.link:hover {
+    color: #ff0000;
+} 
