@@ -4,6 +4,7 @@
 		background-color:teal;
 		color:white;
 		font-family:courier;
+		float:left;
 			}
 	p i:first-child {
     		color: black;
