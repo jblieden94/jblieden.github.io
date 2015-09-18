@@ -1,5 +1,5 @@
 	.container {
-		width: 10%;
+		width: 40%;
 		margin:0 auto;
 		background-color:teal;
 		color:white;
@@ -10,17 +10,17 @@
 	} 
 	.left {
 		float:left;
-		width:10%;
+		width:40%;
 		clear:both;
 			}
 	.2nd{
 		float:left;
-		width:10%;
+		width:40%;
 		clear:both;
 	}
 	.right {
 		float:left;
-		width:10%;
+		width:40%;
 		margin-left:10%;
 			}
 	.table	tr:nth-child(even){
@@ -41,3 +41,12 @@
 	a.link:hover {
     		color: #ff0000;
 	} 
+	.1{
+		text-deocration: line-through;
+	}
+	.2{
+		font-size:34px;
+	}
+	.3{
+		font-style:oblique;
+	}
