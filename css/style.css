@@ -5,7 +5,9 @@
 		color:white;
 		font-family:courier;
 			}
-		
+	p i:first-child {
+    		color: blue;
+	} 
 	.left {
 		float:left;
 		width:40%;
