@@ -1,57 +1,68 @@
-.container{
-width: 1080px;
-clear: both;
+.container
+{
+    background-color:lightyellow;
+    margin: 0 auto;
 }
-.header h1{
-background-color: pink;
+.header h1
+{
 float: left;
-margin: 0 50px 0 30px;
-clear: both;
+    margin: 0 50px 0 30px;
 }
-nav ul li{
-display: inline;
-padding-left: 20px;
-margin-top: 10px;    
-}
-.content {
-float: left;
-background-color: #4CD871;
-width: 70%;
-}
+.header li
+{
 
-.top-content, img{
-float: left;
-clear: both;
+    display: inline;
+    padding-left:20px;
+    margin-top: 10px;
 }
+.header
+{
+    clear:both;
+        padding-bottom: 20px;
+    background-color: lightcoral
+}
+.content
+{
+    float: left;
+    width: 75%;
+    background-color: lightgreen
+}
+.top-content
+{
+    float: left;
+    clear:both;
+   
+}
+.top-content img
+{
+    float: left;
+    padding: 10px;
+}
+.description
+{
+     padding:10px 20px 0;
+    clear: right;
+}
+.section
+{
+    float: left;
 
-.description{
-float: left;
-clear:right;
+    width: 33%
 }
+.aside
+{
+    text-align:center;
+    float: left;
+    width: 25%;
 
-.aside {
-background-color: #FAEEB7;
-float: right;
-width: 30%;
-display: block;
+    background-color: lightyellow
 }
-
-.footer {
-background-color: #6078CF;
-clear:both;
+.footer
+{
+   clear: both ;
+       background-color:lightblue
 }
-.section1{
-display:inline;
-float: left;
-width:33%;
-}
-.section2{
-display:inline;
-float: left;
-width:33%;
-}
-.section3{
-display:inline;
-float: left;
-width:33%;
+li
+{
+    list-style: none;
 }
