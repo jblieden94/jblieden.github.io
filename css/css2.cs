@@ -60,6 +60,7 @@ float: left;
 {
    clear: both ;
        background-color:#8C4646;
+       text-align: center;
 }
 li
 {
