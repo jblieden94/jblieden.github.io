@@ -3,6 +3,12 @@
     background-color:#588c7e;
     margin: 0 auto;
 }
+.header
+{
+    clear:both;
+        padding-bottom: 20px;
+    background-color: #F2E394;
+}
 .header h1
 {
 float: left;
@@ -15,12 +21,7 @@ float: left;
     padding-left:20px;
     margin-top: 10px;
 }
-.header
-{
-    clear:both;
-        padding-bottom: 20px;
-    background-color: #F2E394;
-}
+
 .content
 {
     float: left;
@@ -56,13 +57,14 @@ float: left;
     width: 25%;
     background-color:#D96459;
 }
+li
+{
+    list-style: none;
+}
 .footer
 {
    clear: both ;
        background-color:#8C4646;
        text-align: center;
 }
-li
-{
-    list-style: none;
-}
+
