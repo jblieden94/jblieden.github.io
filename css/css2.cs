@@ -1,6 +1,6 @@
 .container
 {
-    background-color:lightyellow;
+    background-color:#588c7e;
     margin: 0 auto;
 }
 .header h1
@@ -19,13 +19,13 @@ float: left;
 {
     clear:both;
         padding-bottom: 20px;
-    background-color: lightcoral
+    background-color: #F2E394;
 }
 .content
 {
     float: left;
     width: 75%;
-    background-color: lightgreen
+    background-color:#F2AE72;
 }
 .top-content
 {
@@ -54,13 +54,12 @@ float: left;
     text-align:center;
     float: left;
     width: 25%;
-
-    background-color: lightyellow
+    background-color:#D96459;
 }
 .footer
 {
    clear: both ;
-       background-color:lightblue
+       background-color:#8C4646;
 }
 li
 {
