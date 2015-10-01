@@ -5,7 +5,7 @@ body {
     max-width: 70%;
     line-height: 1.45;
     font-family: sans-serif;
-    margin:0 auto;
+    margin:auto;
     
 }
 
@@ -29,4 +29,7 @@ table, tr, td, th {
 h2{
    text-decoration:underline; 
     
+}
+p{
+    width:60;
 }
