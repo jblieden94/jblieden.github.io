@@ -2,9 +2,11 @@ body {
     background: beige;
     color: black;
     font-size: 14px;
-    max-width: 66%;
+    max-width: 70%;
     line-height: 1.45;
-    font-family: sans-serif
+    font-family: sans-serif;
+    margin:0 auto;
+    
 }
 
 table, tr, td, th {
