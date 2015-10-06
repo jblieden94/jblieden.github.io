@@ -15,23 +15,24 @@ body {
 .mets {
     background: orange;
     color: black;
+    padding:0 20 0 20;
 }
 
 .dodgers {
     background: blue;
     color: white;
+    padding:0 20 0 20;
 }
 
 .cubs {
     background: beige;
     color:black;
-    
-    
+    padding:0 20 0 20;
 }
-
 .pittsburgh {
     background: yellow;
     color:black;
+    padding:0 20 0 20;
 }
 
 .cardinals {
