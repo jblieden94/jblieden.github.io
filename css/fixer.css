@@ -42,3 +42,12 @@ body {
 .table-container {
     background: black;
 }
+a:visited{
+    color:black;
+}
+a{
+    color:black;
+}
+.dodgers a{
+    color:white;
+}
