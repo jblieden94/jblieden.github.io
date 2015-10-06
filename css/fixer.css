@@ -1,8 +1,12 @@
 body {
     background: grey;
     color: white;
+    line-height: 1.45;
+    max-width:60%;
 }
-
+div{
+    padding:15px 20px;
+}
 .main-content {
     width: 1000px;
     margin: 0 auto;
