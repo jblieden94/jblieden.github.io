@@ -57,3 +57,11 @@ a{
 .dodgers a{
     color:white;
 }
+.table-container{
+    background:black;
+}
+table. tr, th, td{
+    border:1px solid white;
+    padding:15px;
+    border-collapse:collapse;
+}
