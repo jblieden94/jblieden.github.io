@@ -2,22 +2,41 @@ p {
 padding-left:2em;
 }
 
-@media(max-width:1300px) and (min-width:1100px){
+@media(max-width:1200px){
     body{background-color:dimgray;
     }
-    .1 {color:white;
-    }
-    .2{display:none;}
+    .one {color:white;}
+    .two{display:none;}
+    .three{display:none;}
+    .four{display:none;}
+    .five{display:none;}
 }
-@media(max-width:1099px) and (min-width:900px){
-    body{background-color:#E05151;}   
+@media(max-width:999px){
+    body{background-color:#E05151;}
+    .two{display:inline;color:white;}
+    .three{display:none;}
+    .four{display:none;}
+    .five{display:none;}
 }
-@media(max-width:899px) and (min-width:700px){
-    body{background-color:#D9411E;}   
+@media(max-width:799px){
+    body{background-color:green;} 
+    .three{display:block;color:white;}
+    .four{display:none;}
+    .five{display:none;}
 }
-@media(max-width:699px) and (min-width:500px){
-    body{background-color:#FFD452;}   
+@media(max-width:599px){
+    body{background-color:#FFD452;}
+    .one{color:black}
+    .two{display:inline;color:black;}
+    .three{display:block;color:black;}
+    .four{display:block;color:black;}
+    .five{display:none;}
 }
-@media(max-width:499px) and (min-width:100px){
+@media(max-width:399px){
     body{background-color:#75A3D1;}   
+    .one{color:white}
+    .two{display:inline;color:white;}
+    .three{display:block;color:white;}
+    .four{display:block;color:white;}
+    .five{display:block;color:white;}
 }
