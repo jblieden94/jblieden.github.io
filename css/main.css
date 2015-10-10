@@ -33,7 +33,7 @@ text-decoration:bold;
     .four{display:block;color:black;}
     .five{display:none;}
 }
-@media(max-width:399px){
+@media(max-width:299px){
     body{background-color:#75A3D1;}   
     .one{color:white}
     .two{display:inline;color:white;}
