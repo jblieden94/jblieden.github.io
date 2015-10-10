@@ -1,5 +1,6 @@
 p {
 padding-left:2em;
+text-decoration:bold;
 }
 
 @media(max-width:1200px){
